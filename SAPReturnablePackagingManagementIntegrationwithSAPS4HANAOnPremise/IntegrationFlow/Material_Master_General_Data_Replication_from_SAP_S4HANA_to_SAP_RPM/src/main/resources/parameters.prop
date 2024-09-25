@@ -1,0 +1,9 @@
+#Wed Sep 25 06:03:39 UTC 2024
+authorization=RoleBased
+user_role=ESBMessaging.send
+Credential=Specify OAuth2 Client Credentials
+address=/MaterailMasterGeneralDataReplication
+Authentication=OAuth2 Client Credentials
+Timeout=900000
+Application\ Host\ URL=https\://<host>
+Exception=true

@@ -1,0 +1,9 @@
+#Wed Sep 25 06:03:40 UTC 2024
+authorization=RoleBased
+exception=true
+user_role=ESBMessaging.send
+address=/CompanyCodeReplication
+credential=Specify  OAuth2 Client Credentials
+Application\ Host\ URL=https\://<host>
+timeout=900000
+authentication=OAuth2 Client Credentials
